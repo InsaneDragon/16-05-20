@@ -1,11 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 
 namespace AlifHW_2019_
 {
-    public class Person
+    class Cities
     {
-        public int Id { get; set; }
+        public int ID { get; set; }
         public string Name { get; set; }
-    }   
+    }
 }
